@@ -1,5 +1,5 @@
 git --version
-git config --global user.name "NitishkumarM1
+git config --global user.name "NitishkumarM12"
 git config --global user.email "mudaraddinitishkumar@outlook.com
 git init
 git add filename.html
